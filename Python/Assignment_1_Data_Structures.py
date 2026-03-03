@@ -98,7 +98,7 @@ print(
 
 # =============================================================================
 # Task 4: Combined Operations
-# prodcut_categories is a dictionary mapping product names to their categories.
+# product_categories is a dictionary mapping product names to their categories.
 product_categories = {
     "Laptop": "Electronics", "Smartphone": "Electronics", "Tablet": "Electronics",
     "Headphones": "Accessories", "Smartwatch": "Accessories", "Camera": "Electronics",
